@@ -13,7 +13,7 @@ $GLOBALS['config'] = array(
     'mysql' => array(
         'host' => 'localhost',
         'username' => 'hosted',
-        'password' => 'oZ62SNGWwWhmHdutjRh',
+        'password' => '',
         'db' => 'hosted_panel'
     ),
     'remember' => array(
